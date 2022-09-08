@@ -1,0 +1,41 @@
+.main {
+    background-color: white;
+    max-width: 400px;
+    margin: auto;
+    border-radius: 8px;
+    padding-bottom: 20px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+img {
+    width: 370px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.code {
+    display: flex;
+    justify-content: center;
+}
+
+.big-text {
+    font-weight: 700;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: normal;
+    width: 320px;
+    text-align: center;
+    margin: auto;
+}
+
+.small-text {
+    margin: auto;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    text-align: center;
+    width: 250px;
+    margin-top: -10px;
+}
